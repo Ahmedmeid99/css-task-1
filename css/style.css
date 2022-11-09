@@ -106,7 +106,7 @@ ul {
   justify-content: end;
   gap: 2rem;
   padding: 0 2rem;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 .cart-icon-container {
   position: relative;
@@ -336,6 +336,7 @@ ul {
   }
   .icons {
     flex: 1;
+    font-size: 2rem !important;
   }
 }
 @media (max-width: 505px) {
